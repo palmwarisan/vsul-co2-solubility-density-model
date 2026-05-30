@@ -2,7 +2,7 @@
 
 This repository contains the Python implementation used in:
 
-Warisa N. (2026)
+Warisa Nuntaprayoon (2026)
 Benchtop Visualization of Carbon Storage Processes
 
 The model calculates:
